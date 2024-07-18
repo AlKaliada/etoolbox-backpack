@@ -6,7 +6,7 @@
 
     <packaging>pom</packaging>
 
-    <groupId>com.exadel.etoolbox</groupId>
+    <groupId>com.github.AlKaliada</groupId>
     <artifactId>etoolbox-backpack</artifactId>
     <version>4.0.0</version>
 
